@@ -1,0 +1,5 @@
+#!/sbin/sh
+#################
+# Magisk Module #
+#################
+unzip -o "$3" -d "$2" -x "META-INF/*"

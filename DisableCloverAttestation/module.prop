@@ -1,0 +1,6 @@
+id=disable_clover_attestation
+name=Disable Clover Attestation Hooks
+version=v1.0
+versionCode=1
+author=JuicerV3
+description=Disable built-in Prop and Keybox attestation hooks in Clover Project ROM.
