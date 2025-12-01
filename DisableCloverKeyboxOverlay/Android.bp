@@ -1,0 +1,5 @@
+runtime_resource_overlay {
+    name: "DisableCloverKeyboxOverlay",
+    sdk_version: "current",
+    product_specific: true,
+}
